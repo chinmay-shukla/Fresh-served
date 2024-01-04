@@ -217,6 +217,7 @@ a {
     width: 100vw;
     height: 50vh;
     margin: 5vh 0vw 5vh 0vw;
+    background-image: url("./images/thali3.jpg");
     background-attachment: fixed;
     background-size: cover;
     background-position: center;
